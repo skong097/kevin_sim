@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Kevin 3D Patrol Simulator
+#  Kevin 3D Patrol Simulator
 
 **ROS2 자율순찰 로봇 3D 시뮬레이터**
 
